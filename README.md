@@ -115,6 +115,7 @@ Navigate to the admin folder:
 Right-click on the admin folder and select "Open in Integrated Terminal".
 Run the following commands in the terminal:
 Install dependencies:
+
 bash
 Copy code
 npm install  
